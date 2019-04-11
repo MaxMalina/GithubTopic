@@ -14,28 +14,28 @@
       android:orientation="vertical">
 
       <TextView
-        android:id="@+id/tvRepoName"
+        android:id="@+id/repoName"
         android:textColor="#0366d6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="20sp"/>
 
       <TextView
-        android:id="@+id/tvRepoDesc"
+        android:id="@+id/repoDesc"
         android:textColor="#586069"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="10sp"/>
 
       <TextView
-        android:id="@+id/tvRepoLanguage"
+        android:id="@+id/repoLanguage"
         android:textColor="#586069"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="15sp"/>
 
       <TextView
-        android:id="@+id/tvRepoTopics"
+        android:id="@+id/repoTopics"
         android:textColor="#0366d6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -55,7 +55,7 @@
         android:layout_height="wrap_content" />
 
       <TextView
-        android:id="@+id/tvRepoStars"
+        android:id="@+id/repoStars"
         android:textColor="#586069"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
